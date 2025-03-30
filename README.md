@@ -27,6 +27,7 @@ pip install -r requirements.txt
 3. Download LLaMA model:
 - Download DeepSeek-R1-8b.gguf from hugging face or ollama or lmstudio
 - Place it in folder `ai/`
+- Update path in line 574 in lama.py 
 
 ## Project Structure
 
@@ -108,7 +109,7 @@ Each problem includes:
 
 ## Author
 
-Prashith Shetty
+Prashith R Shetty
 
 ## Acknowledgments
 
