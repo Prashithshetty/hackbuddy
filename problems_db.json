@@ -1,0 +1,22 @@
+{
+  "problems": [
+    {
+      "id": 1,
+      "title": "Generated Problem for Climate Tech",
+      "description": "**Hackathon Challenges for Lumina-Image 2.0 and Renewable Data Infrastructure**\n\n---\n\n### **Challenge 1: Enhanced Image Generative Framework Optimization**\n\n**Title:**  \n\"Optimize Lumina-Image 2.0: Unified Image Generation\"\n\n**Core Challenge:**  \n- Integrate and optimize multiple AI models into a single, efficient framework for high-speed image generation.\n- Enhance the framework's scalability and performance across diverse applications.\n\n**Implementation Requirements:**  \n- Integrate advanced AI models (e.g., GANs, transformers).\n- Optimize computational efficiency and reduce latency.\n- Ensure framework scalability for various image generation tasks.\n\n**Success Metrics:**  \n- Speed of image generation (",
+      "theme": "Climate Tech",
+      "difficulty": "Medium",
+      "source_url": "http://arxiv.org/abs/2503.21758v1",
+      "created_at": "2025-03-30T20:42:41.619512",
+      "hash": "936a656cc8eb285de16c89f115371aca"
+    }
+  ],
+  "logs": [
+    {
+      "id": 1,
+      "action": "add_problem",
+      "details": "Added new problem: Generated Problem for Climate Tech",
+      "timestamp": "2025-03-30T20:42:41.620389"
+    }
+  ]
+}
