@@ -570,9 +570,9 @@ async def main():
     """
     logger = setup_logging()
     analyzer = ThematicAnalyzer()
-    
-    model_path = "ai/DeepSeek-R1.gguf"
-    
+    #I PREFER DeepSeek-R1 8Billion 
+    model_path = "ai/AI_MODEL_NAME.gguf" #CREATE A NEW FOLDER CALLED AI AND ADD YOUR AI THERE CHANGE AI_MODEL_NAME TO YOUR AI NAME 
+    #NOTE I HAVE ONLY TESTED THIS ON DEEPSEEK 8Billion 
     if not os.path.exists(model_path):
         logger.error(f"Model file not found at: {model_path}")
         return
